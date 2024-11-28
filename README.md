@@ -32,7 +32,6 @@ I'm Mohamad Askari, a Full-stack developer at Mindro-AI and a Computer Science a
 #### ML & AI Libraries
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=hugging-face)
 
