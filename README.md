@@ -3,12 +3,11 @@
 I'm Mohamad Askari, a Full-stack developer at Mindro-AI and a Computer Science and AI student currently pursuing my Bachelor's in Applied Computer Science and Artificial Intelligence at Sapienza University of Rome.
 
 ### 🔭 I'm currently working on
-- Full-stack development at Mindro-ai, creating a customized Large Language Model platform using Next.js and NestJs
-- A React & NodeJs Prompt Manager application
+- Full-stack development at Mindro-ai, creating a customized Large Language Model platform
 
 ### 🌱 I'm currently learning
-- Advanced full-stack development techniques
-- Natural Language Processing
+- Advanced full-stack concepts and development techniques
+- Natural Language Processing and Large Language Models
 - Machine Learning and Deep Learning strategies
 
 ### 💻 Tech Stack
@@ -16,8 +15,10 @@ I'm Mohamad Askari, a Full-stack developer at Mindro-AI and a Computer Science a
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![NestJs](https://img.shields.io/badge/-Python-black?style=flat-square&logo=nestjs)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
 
 ### 📚 Research Interests
 - Natural Language Processing
