@@ -19,11 +19,6 @@ I'm Mohamad Askari, a passionate Computer Science and AI student currently pursu
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-### 🏆 Achievements
-- Ranked 1st among Computer Science students in 3rd semester
-- Top 0.1% in Iranian university entrance exam
-- IELTS score of 7.5
-
 ### 📚 Research Interests
 - Natural Language Processing
 - Machine Learning
