@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mohamad Askari, a passionate Computer Science and AI student currently pursuing my Bachelor's in Applied Computer Science and Artificial Intelligence at Sapienza University of Rome.
+I'm Mohamad Askari, a Full-stack developer at Mindro-AI and a Computer Science and AI student currently pursuing my Bachelor's in Applied Computer Science and Artificial Intelligence at Sapienza University of Rome.
 
 ### 🔭 I'm currently working on
 - Full-stack development at Mindro-ai, creating a customized Large Language Model platform using Next.js and NestJs
@@ -29,9 +29,5 @@ I'm Mohamad Askari, a passionate Computer Science and AI student currently pursu
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadaskari)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:mohamadaskari.ap@gmail.com)
 
-### ⚡ Fun Facts
-- I've been a Teaching Assistant for Data Structures, Algorithms, and Advanced Programming
-- I'm fluent in English and Persian
-- Always eager to learn and solve challenging problems!
 
 ![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamadAskari&show_icons=true&theme=radical)
