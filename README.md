@@ -48,8 +48,6 @@ I'm Mohamad Askari, a Full-stack developer at Mindro-AI and a Computer Science a
 - Large Language Models
 - Adversarial and Backdoor Attacks on Language Models
 
-[![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamadAskari)](https://github.com/mohamadaskari/github-readme-stats)
-
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadaskari)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:mohamadaskari.ap@gmail.com)
