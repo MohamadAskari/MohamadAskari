@@ -1,20 +1,20 @@
 ## Hi there 👋
 
-I'm Mohamad Askari, a Full-stack developer at Mindro-AI and a Computer Science and AI student currently pursuing my Bachelor's in Applied Computer Science and Artificial Intelligence at Sapienza University of Rome.
+I'm Mohamad Askari, a Research Assistant at Cambridge University and a Computer Science and AI student currently pursuing my Bachelor's in Applied Computer Science and Artificial Intelligence at Sapienza University of Rome.
 
 ### 🔭 I'm currently working on
-- Full-stack development at Mindro-ai, creating a customized Large Language Model platform
-
+- Reseach in Cambridge University, leveraging machine learning in single-cell and spatial omics, applying deep learning to understand cell–cell interactions and gene expression dynamics under supervision of Dr. Stathis Megas.
+- 
 ### 🌱 I'm currently learning
-- Advanced full-stack concepts and development techniques
-- Natural Language Processing and Large Language Models
-- Machine Learning and Deep Learning strategies
+- Machine Learning for Bio
+- Single-cell Genomics and Spatial Transcriptomics data
+- Mathematical theories behind Machine Learning and Deep Learning algorithms
 
 ### 💻 Tech Stack
 #### Languages
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,18 +35,13 @@ I'm Mohamad Askari, a Full-stack developer at Mindro-AI and a Computer Science a
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=hugging-face)
 
+
 #### Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger)
 
-
-
-### 📚 Research Interests
-- Natural Language Processing
-- Large Language Models
-- Adversarial and Backdoor Attacks on Language Models
 
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadaskari)
