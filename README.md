@@ -4,7 +4,7 @@ I'm Mohamad Askari, a Research Assistant at Cambridge University and a Computer 
 
 ### 🔭 I'm currently working on
 - Reseach in Cambridge University, leveraging machine learning in single-cell and spatial omics, applying deep learning to understand cell–cell interactions and gene expression dynamics under supervision of Dr. Stathis Megas.
-- 
+
 ### 🌱 I'm currently learning
 - Machine Learning for Bio
 - Single-cell Genomics and Spatial Transcriptomics data
